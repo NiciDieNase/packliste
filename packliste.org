@@ -33,6 +33,7 @@
   
 ** LITTLE THINGS THAT AMUSE ME [0/5]
    - [ ] Reading material
+   - [ ] MP3 player
    - [ ] An analog game
    - [ ] Tobacco
    - [ ] Charging cables
@@ -58,6 +59,7 @@
    - [ ] Portable ash tray
    - [ ] Blanket
    - [ ] Rescue blanket
+   - [ ] Cloth pegs
    - [ ] Trash bags
    - [ ] Fire extinguisher if possible
    - [ ] Comfy chair, maybe table
@@ -70,6 +72,7 @@
      - [ ] Ethernet cable (long)
      - [ ] multiple socket plug
      - [ ] Power cable (long)
+  - [ ] additional SIM card for abroad
   - [ ] USB drive for sneakernet connection
   - [ ] Something to put laptop on
 
