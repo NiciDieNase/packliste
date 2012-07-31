@@ -1,0 +1,85 @@
+* PACKLIST
+**  I CAN HAS SLEEP ETC.  [0/3] 
+   - [ ] Sleeping bag
+   - [ ] Mattress
+   - [ ] Wash bag [0/12]
+     - [ ]Tooth paste
+     - [ ]Tooth brush]
+     - [ ]Aspirin
+     - [ ]Condoms
+     - [ ]Shower gel / shampoo
+     - [ ]Handkerchiefs
+     - [ ]Tampons
+     - [ ]Medication
+     - [ ]Refreshment towels (throwaway)
+     - [ ]Razor
+     - [ ]Insect repellents
+     - [ ]Ear plugs
+** I SHALL NOT COME NAKED [0/13]
+   - [ ] T-Shirts
+   - [ ] Pullovers
+   - [ ] Pants / trousers
+   - [ ] Socks
+   - [ ] Shorts / Undies
+   - [ ] Larger towel
+   - [ ] Bathing suit
+   - [ ] Jacket
+   - [ ] Shoes
+   - [ ] Light shoes / sandals
+   - [ ] Rain jacket
+   - [ ] Box for glasses
+   - [ ] Glasses cleaner
+   - [ ] Umbrella
+  
+** LITTLE THINGS THAT AMUSE ME [0/5]
+   - [ ] Reading material
+   - [ ] An analog game
+   - [ ] Tobacco
+   - [ ] Charging cables
+   - [ ] Wallet
+     - [ ] contains money?
+     - [ ] contains ticket?
+     - [ ] Health insurance
+     - [ ] Non-essentials removed?
+
+** GOD, I HATE CAMPING [0/13]
+   - [ ] Tent
+     - [ ] Tent pegs?
+   - [ ] Dishes & eating irons
+     - [ ] Plate
+     - [ ] Mug
+     - [ ] Eating irons (spork, knife)
+     - [ ] Penknife
+   - [ ] Provisions
+   - [ ] Drinking bottle
+   - [ ] Rubber boots
+   - [ ] Lamp
+   - [ ] Toilet paper and baby wipes
+   - [ ] Portable ash tray
+   - [ ] Blanket
+   - [ ] Rescue blanket
+   - [ ] Trash bags
+   - [ ] Fire extinguisher if possible
+   - [ ] Comfy chair, maybe table
+
+** GIVE ME NERDY THINGS [0/6]
+   - [ ] Laptop
+   - [ ] Ethernet cable (long)
+   - [ ] multiple socket plug
+   - [ ] Power cable (long)
+   - [ ] USB drive for sneakernet connection
+   - [ ] Something to put laptop on
+
+** EVIL DAYSTAR IS EVIL [0/4]
+   - [ ] Sun glasses
+   - [ ] A nice hat
+   - [ ] Sun screen (strong)
+   - [ ] Bathing suit (not the Borat one)
+
+** TEH CAMP [0/4]
+   - [ ] Micro USB cable (r0ketbadge)
+   - [ ] DECT 
+     - [ ] Phone
+     - [ ] charger
+   - [ ] List of SSH fingerprints etc.
+   - [ ] GPS
