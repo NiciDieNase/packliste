@@ -44,7 +44,7 @@
 
 ** GOD, I HATE CAMPING [0/13]
    - [ ] Tent
-     - [ ] Tent pegs?
+   - [ ] Tent pegs?
    - [ ] Dishes & eating irons
      - [ ] Plate
      - [ ] Mug
@@ -63,12 +63,15 @@
    - [ ] Comfy chair, maybe table
 
 ** GIVE ME NERDY THINGS [0/6]
-   - [ ] Laptop
-   - [ ] Ethernet cable (long)
-   - [ ] multiple socket plug
-   - [ ] Power cable (long)
-   - [ ] USB drive for sneakernet connection
-   - [ ] Something to put laptop on
+   - [ ] Devices
+     - [ ] Laptop
+     - [ ] Smartphone
+  - [ ] Cable-Stuff
+     - [ ] Ethernet cable (long)
+     - [ ] multiple socket plug
+     - [ ] Power cable (long)
+  - [ ] USB drive for sneakernet connection
+  - [ ] Something to put laptop on
 
 ** EVIL DAYSTAR IS EVIL [0/4]
    - [ ] Sun glasses
