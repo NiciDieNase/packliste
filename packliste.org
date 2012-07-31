@@ -4,12 +4,11 @@
    - [ ] Mattress
    - [ ] Wash bag [0/12]
      - [ ]Tooth paste
-     - [ ]Tooth brush]
+     - [ ]Tooth brush
      - [ ]Aspirin
      - [ ]Condoms
      - [ ]Shower gel / shampoo
      - [ ]Handkerchiefs
-     - [ ]Tampons
      - [ ]Medication
      - [ ]Refreshment towels (throwaway)
      - [ ]Razor
@@ -27,6 +26,7 @@
    - [ ] Shoes
    - [ ] Light shoes / sandals
    - [ ] Rain jacket
+   - [ ] Rain pants
    - [ ] Box for glasses
    - [ ] Glasses cleaner
    - [ ] Umbrella
@@ -34,8 +34,8 @@
 ** LITTLE THINGS THAT AMUSE ME [0/5]
    - [ ] Reading material
    - [ ] MP3 player
+   - [ ] Earphones
    - [ ] An analog game
-   - [ ] Tobacco
    - [ ] Charging cables
    - [ ] Wallet
      - [ ] contains money?
@@ -55,10 +55,13 @@
    - [ ] Drinking bottle
    - [ ] Rubber boots
    - [ ] Lamp
+     - [ ] Headlamp
+     - [ ] Maglite
    - [ ] Toilet paper and baby wipes
-   - [ ] Portable ash tray
    - [ ] Blanket
-   - [ ] Rescue blanket
+     - [ ] to lay on
+     - [ ] to keep warm
+   - [ ] Rescue blankets
    - [ ] Cloth pegs
    - [ ] Trash bags
    - [ ] Fire extinguisher if possible
@@ -67,14 +70,17 @@
 ** GIVE ME NERDY THINGS [0/6]
    - [ ] Devices
      - [ ] Laptop
+     - [ ] Tablet
      - [ ] Smartphone
   - [ ] Cable-Stuff
-     - [ ] Ethernet cable (long)
-     - [ ] multiple socket plug
-     - [ ] Power cable (long)
+    - [ ] Chargers
+    - [ ] Ethernet cable (long)
+    - [ ] Ethernet cable (short)
+    - [ ] multiple socket plug
+    - [ ] Power cable (long)
+  - [ ] Switch
   - [ ] additional SIM card for abroad
   - [ ] USB drive for sneakernet connection
-  - [ ] Something to put laptop on
 
 ** EVIL DAYSTAR IS EVIL [0/4]
    - [ ] Sun glasses
